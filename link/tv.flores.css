@@ -24,7 +24,7 @@ a#rodape {
     font-weight: bold;
 }
 header#cabecalho {
-    background: url("../logo-tv-flores.png") no-repeat 100% 100%;
+    background: url("../img/logo-tv-flores.png") no-repeat 100% 100%;
     margin-bottom: 10px;
     height: 220px;
     border: 2px solid black;
